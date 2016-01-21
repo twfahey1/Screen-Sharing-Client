@@ -1,0 +1,14 @@
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\bin\Debug\Screen Sharing Client.exe.config
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\bin\Debug\Screen Sharing Client.exe
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\bin\Debug\Screen Sharing Client.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\bin\Debug\Interop.RDPCOMAPILib.dll
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\bin\Debug\AxInterop.RDPCOMAPILib.dll
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\Screen Sharing Client.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\Interop.RDPCOMAPILib.dll
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\AxInterop.RDPCOMAPILib.dll
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\Screen Sharing Client.csproj.ResolveComReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\Screen_Sharing_Client.Form1.resources
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\Screen_Sharing_Client.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\Screen Sharing Client.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\Screen Sharing Client.exe
+c:\users\tyler\documents\visual studio 2015\Projects\Screen Sharing Client\Screen Sharing Client\obj\Debug\Screen Sharing Client.pdb
